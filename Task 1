@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <h1>TinkerHub</h1>
+            <p>
+                TinkerHub is a community of learners, tinkeres and innovators at NSS College of Engineering in Kerala.<br>
+                We promote exposure to technology beyond the curriculum, through peer learning activities.
+            </p>
+            <style> .Order{
+                color: red;
+            }
+            </style>
+        <div class="Order">
+            <h2>Ordered List</h2>
+         </div>
+            <ol>
+                <li>HTML</li>
+                <li>JavaScript</li>
+                <li>React</li>
+            </ol>
+            <style> .Unorder{
+                color: blue;
+            }
+            </style>
+        <div class="Unorder">
+            <h2>Unordered List</h2>
+        </div>
+            <ul>
+                <li>HTML</li>
+                <li>JavaScript</li>
+                <li>React</li>
+            </ul>
+            <table bgcolor="black" >
+                <tr bgcolor="white">
+                <th>Day</th>
+                <th>Status</th>
+                </tr>
+                <tr bgcolor="white">
+                    <th>0</th>
+                    <th>Completed</th>
+                </tr>
+                <tr bgcolor="white">
+                    <th>1</th>
+                    <th>Completed</th>
+                </tr>
+                <tr bgcolor="white">
+                    <th>2</th>
+                    <th>Loading...</th>
+                </tr>
+            </table>
+        </head>
+    </html>
